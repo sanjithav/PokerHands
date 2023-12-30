@@ -1,10 +1,3 @@
-# File: Hand.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# Unique Number: XXXXX
-# 
-# Date Created: 11/1/2023
 # Description of Program: this file is able to deal cards and check their validity for different poker hands. 
 
 
